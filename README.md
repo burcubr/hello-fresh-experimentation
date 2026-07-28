@@ -64,3 +64,31 @@ Recommend a controlled rollout of Flexible Delivery while continuing to monitor:
 ## Author
 
 Data Analytics Experimentation Project
+## Experiment Results
+
+### Customer Experience Improvement
+
+The treatment group showed a significant improvement in customer experience score.
+
+![Experience Score](images/experience_score_ab_test.png)
+
+
+### Delivery Delay Reduction
+
+Flexible Delivery reduced average delivery delays compared to the control group.
+
+![Delivery Delay](images/delivery_delay_ab_test.png)
+
+
+### Cancellation Rate Improvement
+
+The treatment group achieved a lower cancellation rate.
+
+![Cancellation Rate](images/cancellation_rate_ab_test.png)
+
+
+### Cost vs Experience Trade-off
+
+While customer experience improved, delivery cost increased. This trade-off should be monitored during rollout.
+
+![Cost Trade-off](images/cost_vs_experience_tradeoff.png)
